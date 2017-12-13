@@ -1,0 +1,28 @@
+{
+  "name": "tessel-epaper",
+  "version": "0.0.1",
+  "description": "Tessel library for Waveshare ePaper HATs for RaspberryPi https://www.waveshare.com/wiki/2.13inch_e-Paper_HAT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javamatte/tessel-epaper.git"
+  },
+  "keywords": [
+    "tessel",
+    "tessel2",
+    "eink",
+    "epaper",
+    "waveshare",
+    "e-paper",
+    "e-ink"
+  ],
+  "author": "javamatte@gmail.com",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/javamatte/tessel-epaper/issues"
+  },
+  "homepage": "https://github.com/javamatte/tessel-epaper#readme"
+}
