@@ -24,5 +24,10 @@
   "bugs": {
     "url": "https://github.com/javamatte/tessel-epaper/issues"
   },
-  "homepage": "https://github.com/javamatte/tessel-epaper#readme"
+  "homepage": "https://github.com/javamatte/tessel-epaper#readme",
+  "dependencies": {
+    "async-series": "0.0.1",
+    "events": "^1.1.1",
+    "util": "^0.10.3"
+  }
 }
