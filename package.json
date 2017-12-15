@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/javamatte/tessel-epaper#readme",
   "dependencies": {
-    "async-series": "0.0.1",
+    "async": "^2.6.0",
     "events": "^1.1.1",
     "util": "^0.10.3"
   }

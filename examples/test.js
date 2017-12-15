@@ -1,4 +1,3 @@
-
 var tessel = require('tessel');
 var display = require('../').use(tessel.port.A);
 
